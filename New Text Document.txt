@@ -1,0 +1,6 @@
+super user:
+admin
+admin@143
+
+Anand
+Django1234
